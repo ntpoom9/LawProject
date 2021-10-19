@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Kanit';
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+/* footer  */
+
+footer,
+#footer_link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
